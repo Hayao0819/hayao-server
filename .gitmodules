@@ -1,0 +1,4 @@
+
+[submodule "tv-server/mirakurun-epgstation"]
+	path = tv-server/mirakurun-epgstation
+	url = https://github.com/Hayao0819/docker-mirakurun-epgstation
